@@ -4,7 +4,7 @@
 // @version      1.7.0
 // @description  Separate live dashboards for money and tokens with Main/Alt profiles, alerts, stop-loss reminders, trend alerts, and deeper session analytics.
 // @author       You
-// @match        *://*https://case-clicker.com/*
+// @match        *://https://case-clicker.com/*
 // @match        *://https://case-clicker.com/*
 // @grant        none
 // @run-at       document-idle
