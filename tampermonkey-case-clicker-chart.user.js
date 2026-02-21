@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Case Clicker Online - Money + Token Live Stats
-// @namespace    https://caseclicker.online/
+// @namespace    https://case-clicker.com/
 // @version      1.7.0
 // @description  Separate live dashboards for money and tokens with Main/Alt profiles, alerts, stop-loss reminders, trend alerts, and deeper session analytics.
 // @author       You
-// @match        *://*.caseclicker.online/*
-// @match        *://caseclicker.online/*
+// @match        *://*https://case-clicker.com/*
+// @match        *://https://case-clicker.com/*
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
